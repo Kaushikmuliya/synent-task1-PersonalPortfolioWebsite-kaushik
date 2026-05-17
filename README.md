@@ -12,7 +12,7 @@ A single-page personal portfolio built with plain HTML, CSS, and JavaScript. The
 
 ## Project Structure
 
-- `main.html` — Main portfolio page (HTML markup)
+- `index.html` — Main portfolio page (HTML markup)
 - `style.css` — Extracted stylesheet (visuals and layout)
 - `README.md` — Project overview and usage
 
