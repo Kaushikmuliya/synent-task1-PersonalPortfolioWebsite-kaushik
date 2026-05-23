@@ -1,4 +1,5 @@
 # Personal Portfolio Website
+https://kaushikmuliya.github.io/synent-task1-PersonalPortfolioWebsite-kaushik/
 
 A single-page personal portfolio built with plain HTML, CSS, and JavaScript. The design uses a dark, neon-inspired aesthetic and includes small interactive details (custom cursor, reveal animations) while remaining framework-free.
 
